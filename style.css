@@ -1,0 +1,12 @@
+html{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #E0FFFF;
+}
+p{
+	height: 8px;
+	color: grey;
+}
+#titulo{
+	font-size: 20px;
+	padding: 5px 0px 25px 0px;
+}	
